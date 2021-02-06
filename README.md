@@ -1,1 +1,1 @@
-# Credit-Card-Churning-Analysis
+# Credit Card Churning Analysis
